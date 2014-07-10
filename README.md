@@ -12,8 +12,6 @@ Bitter has little variation in stroke weight and the Regular is thicker than a n
 
 Each glyph is carefully designed with an excellent curve quality added to the first stage of the design, that was entirely made in a pixel grid. The typeface is balanced and manually spaced to use very few kerning pairs, especially important for web font use since most browsers do not currently support this feature.
 
-Early versions of the Italic and Bold styles were added in December 2011 and will be updated and complemented by a Bold Italic in early 2012.
-
 Designed by Sol Matas for Huerta Tipográfica
 
 
