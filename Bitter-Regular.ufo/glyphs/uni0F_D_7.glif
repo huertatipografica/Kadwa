@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0FD7" format="1">
+  <advance width="840"/>
+  <unicode hex="0FD7"/>
+  <outline>
+    <contour>
+      <point x="370" y="690" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="395" type="line"/>
+      <point x="75" y="310" type="line"/>
+      <point x="765" y="310" type="line"/>
+      <point x="765" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="690" type="line"/>
+      <point x="370" y="605" type="line"/>
+      <point x="770" y="605" type="line"/>
+      <point x="760" y="690" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="85" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="685" type="line"/>
+      <point x="75" y="310" type="line"/>
+      <point x="175" y="310" type="line"/>
+      <point x="175" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="665" y="395" type="line"/>
+      <point x="665" y="-5" type="line"/>
+      <point x="765" y="5" type="line"/>
+      <point x="765" y="395" type="line"/>
+    </contour>
+    <component base="nuktadeva" xOffset="163" yOffset="346" xScale="0.83" yScale="0.83"/>
+    <component base="nuktadeva" xOffset="163" yOffset="636" xScale="0.83" yScale="0.83"/>
+    <component base="nuktadeva" xOffset="457" yOffset="346" xScale="0.83" yScale="0.83"/>
+    <component base="nuktadeva" xOffset="457" yOffset="636" xScale="0.83" yScale="0.83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

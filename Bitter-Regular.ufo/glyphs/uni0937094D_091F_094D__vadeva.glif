@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0937094D091F094D_vadeva" format="1">
+  <advance width="603"/>
+  <outline>
+    <component base="uni0937094D_ttadeva"/>
+    <component base="vadeva.post" xOffset="20" yOffset="-210"/>
+    <contour>
+      <point x="442" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="442" y="-320" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

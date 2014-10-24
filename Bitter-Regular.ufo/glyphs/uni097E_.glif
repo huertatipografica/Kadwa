@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097E" format="1">
+  <advance width="600"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="45" y="-75" type="line"/>
+      <point x="55" y="-145" type="line"/>
+      <point x="550" y="-145" type="line"/>
+      <point x="540" y="-75" type="line"/>
+    </contour>
+    <component base="ddadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

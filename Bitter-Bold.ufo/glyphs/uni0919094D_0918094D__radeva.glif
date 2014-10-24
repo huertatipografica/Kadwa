@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D0918094D_radeva" format="1">
+  <advance width="732"/>
+  <outline>
+    <contour>
+      <point x="148" y="-334" type="line"/>
+      <point x="217" y="-415" type="line"/>
+      <point x="495" y="-202" type="line"/>
+      <point x="476" y="-120" type="line"/>
+    </contour>
+    <component base="uni0919094D_ghadeva"/>
+    <contour>
+      <point x="453" y="541" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="495" y="-347" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

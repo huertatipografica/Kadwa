@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0920094D_tthadeva" format="1">
+  <advance width="613"/>
+  <outline>
+    <contour>
+      <point x="-20" y="680" type="line"/>
+      <point x="-9" y="605" type="line"/>
+      <point x="633" y="605" type="line"/>
+      <point x="623" y="680" type="line"/>
+    </contour>
+    <component base="uni0920094D_tthadeva.comp" xOffset="-17"/>
+    <component base="uni0920094D_tthadeva.comp" xOffset="-17" yOffset="-424"/>
+    <contour>
+      <point x="394" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="364" y="-265" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

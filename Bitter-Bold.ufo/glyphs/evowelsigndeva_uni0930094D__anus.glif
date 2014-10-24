@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="evowelsigndeva_uni0930094D_anus" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="evowelsigndeva_uni0930094D"/>
+    <component base="anusvaradeva" xOffset="107" yOffset="134" xScale="0.79" yScale="0.79"/>
+    <contour>
+      <point x="-169" y="541" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

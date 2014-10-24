@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0915094D_ssadeva" format="1">
+  <advance width="921"/>
+  <outline>
+    <component base="uni093E" xOffset="584"/>
+    <component base="uni0915094D0937094D"/>
+    <contour>
+      <point x="753" y="541" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="753" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

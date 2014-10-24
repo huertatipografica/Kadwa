@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093E.2" format="1">
+  <advance width="337"/>
+  <outline>
+    <contour>
+      <point x="99" y="691" type="line"/>
+      <point x="99" y="-136" type="line"/>
+      <point x="236" y="-136" type="line"/>
+      <point x="236" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="-22" y="691" type="line"/>
+      <point x="-6" y="584" type="line"/>
+      <point x="360" y="584" type="line"/>
+      <point x="345" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="541" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="168" y="-136" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocandravowelsigndeva" format="1">
+  <advance width="337"/>
+  <unicode hex="0949"/>
+  <outline>
+    <component base="uni093E"/>
+    <component base="ecandravowelsigndeva" xOffset="337"/>
+    <contour>
+      <point x="168" y="541" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="168" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

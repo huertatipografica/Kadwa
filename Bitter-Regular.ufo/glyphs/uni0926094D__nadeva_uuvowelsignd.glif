@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D_nadeva_uuvowelsignd" format="1">
+  <advance width="621"/>
+  <outline>
+    <contour>
+      <point x="110" y="-40" type="line"/>
+      <point x="205" y="-60" type="line"/>
+      <point x="470" y="114" type="line"/>
+      <point x="435" y="163" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="-40" type="line"/>
+      <point x="105" y="-110" type="line"/>
+      <point x="169" y="-139"/>
+      <point x="225" y="-150"/>
+      <point x="292" y="-145" type="curve"/>
+      <point x="310" y="-80" type="line"/>
+      <point x="220" y="-28" type="line"/>
+    </contour>
+    <component base="dadeva_uuvowelsigndeva"/>
+    <contour>
+      <point x="412" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="512" y="-230" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

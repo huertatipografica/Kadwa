@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F.02" format="1">
+  <advance width="312"/>
+  <outline>
+    <contour>
+      <point x="836" y="777" type="line"/>
+      <point x="657" y="911"/>
+      <point x="418" y="990"/>
+      <point x="263" y="990" type="curve" smooth="yes"/>
+      <point x="147" y="990"/>
+      <point x="65" y="937"/>
+      <point x="65" y="835" type="curve" smooth="yes"/>
+      <point x="65" y="781"/>
+      <point x="88" y="725"/>
+      <point x="122" y="667" type="curve"/>
+      <point x="195" y="669" type="line"/>
+      <point x="168" y="721"/>
+      <point x="155" y="763"/>
+      <point x="155" y="800" type="curve" smooth="yes"/>
+      <point x="155" y="871"/>
+      <point x="210" y="905"/>
+      <point x="290" y="905" type="curve" smooth="yes"/>
+      <point x="418" y="905"/>
+      <point x="634" y="832"/>
+      <point x="794" y="726" type="curve"/>
+    </contour>
+    <component base="uni093E"/>
+    <contour>
+      <point x="836" y="777" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="155" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="836" y="530" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

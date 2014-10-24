@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nuktadeva" format="1">
+  <advance width="328"/>
+  <unicode hex="093C"/>
+  <outline>
+    <contour>
+      <point x="136" y="-84"/>
+      <point x="80" y="-143"/>
+      <point x="80" y="-168" type="curve" smooth="yes"/>
+      <point x="80" y="-198"/>
+      <point x="142" y="-252"/>
+      <point x="167" y="-252" type="curve" smooth="yes"/>
+      <point x="192" y="-252"/>
+      <point x="246" y="-192"/>
+      <point x="246" y="-168" type="curve" smooth="yes"/>
+      <point x="246" y="-136"/>
+      <point x="186" y="-84"/>
+      <point x="161" y="-84" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="165" y="-168" type="move" name="_nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

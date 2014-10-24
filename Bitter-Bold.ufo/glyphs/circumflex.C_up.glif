@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.Cup" format="1">
+  <advance width="428"/>
+  <outline>
+    <contour>
+      <point x="216" y="840" type="line"/>
+      <point x="380" y="720" type="line"/>
+      <point x="428" y="786" type="line"/>
+      <point x="253" y="947" type="line"/>
+      <point x="164" y="939" type="line"/>
+      <point x="0" y="786" type="line"/>
+      <point x="48" y="720" type="line"/>
+    </contour>
+  </outline>
+</glyph>

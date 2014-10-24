@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094C" format="1">
+  <advance width="311"/>
+  <unicode hex="094C"/>
+  <outline>
+    <component base="uni093E"/>
+    <component base="aivowelsigndeva" xOffset="312"/>
+    <contour>
+      <point x="155" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="155" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

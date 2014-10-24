@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eLongCandra-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0955"/>
+  <outline>
+    <contour>
+      <point x="-331" y="809" type="line"/>
+      <point x="-320" y="729" type="line"/>
+      <point x="42" y="729" type="line"/>
+      <point x="31" y="809" type="line"/>
+    </contour>
+    <component base="ecandravowelsigndeva" xOffset="-1" yOffset="102"/>
+    <contour>
+      <point x="-157" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

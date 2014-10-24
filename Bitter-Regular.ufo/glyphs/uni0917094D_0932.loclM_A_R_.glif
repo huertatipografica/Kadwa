@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0917094D0932.loclMAR" format="1">
+  <advance width="627"/>
+  <outline>
+    <contour>
+      <point x="426" y="680" type="line"/>
+      <point x="426" y="88" type="line"/>
+      <point x="516" y="88" type="line"/>
+      <point x="516" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="680" type="line"/>
+      <point x="307" y="605" type="line"/>
+      <point x="647" y="605" type="line"/>
+      <point x="637" y="680" type="line"/>
+    </contour>
+    <component base="uni0932.comp" xOffset="-34" yOffset="-34"/>
+    <component base="uni0917094D" xOffset="10"/>
+    <contour>
+      <point x="472" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="424" y="-222" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

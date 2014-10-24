@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halfspace" format="1">
+  <advance width="102"/>
+  <outline>
+    <contour>
+      <point x="-120" y="317" type="line"/>
+      <point x="221" y="317" type="line"/>
+      <point x="221" y="405" type="line"/>
+      <point x="-120" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="-120" y="579" type="line"/>
+      <point x="220" y="579" type="line"/>
+      <point x="220" y="672" type="line"/>
+      <point x="-120" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="-83" y="22" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="0" y="243" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

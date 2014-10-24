@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni09400930094D_anusvaradeva.01" format="1">
+  <advance width="312"/>
+  <outline>
+    <component base="uni09400930094D"/>
+    <component base="anusvaradeva" xOffset="427" yOffset="66" xScale="0.89" yScale="0.89"/>
+    <contour>
+      <point x="155" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="155" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

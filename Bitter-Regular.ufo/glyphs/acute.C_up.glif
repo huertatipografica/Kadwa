@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.Cup" format="1">
+  <advance width="235"/>
+  <outline>
+    <contour>
+      <point x="2" y="788" type="line"/>
+      <point x="40" y="735" type="line"/>
+      <point x="235" y="860" type="line"/>
+      <point x="184" y="933" type="line"/>
+    </contour>
+  </outline>
+</glyph>

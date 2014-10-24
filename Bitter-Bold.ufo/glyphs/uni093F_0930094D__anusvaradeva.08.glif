@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F0930094D_anusvaradeva.08" format="1">
+  <advance width="337"/>
+  <outline>
+    <component base="uni093F.08"/>
+    <component base="uni0930094D_anusvaradeva.imatra" xOffset="1619" yOffset="67"/>
+    <contour>
+      <point x="1480" y="804" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="168" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1480" y="541" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

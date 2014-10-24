@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928094D" format="1">
+  <advance width="306"/>
+  <outline>
+    <contour>
+      <point x="27" y="371" type="line"/>
+      <point x="48" y="299"/>
+      <point x="84" y="254"/>
+      <point x="137" y="209" type="curve"/>
+      <point x="202" y="249" type="line"/>
+      <point x="182" y="361" type="line"/>
+      <point x="87" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="431" type="line"/>
+      <point x="87" y="351" type="line"/>
+      <point x="481" y="351" type="line"/>
+      <point x="468" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="680" type="line"/>
+      <point x="-9" y="605" type="line"/>
+      <point x="430" y="605" type="line"/>
+      <point x="420" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="18" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

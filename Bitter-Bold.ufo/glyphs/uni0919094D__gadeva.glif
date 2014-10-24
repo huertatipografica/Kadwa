@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D_gadeva" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="-26" y="691" type="line"/>
+      <point x="-9" y="584" type="line"/>
+      <point x="765" y="584" type="line"/>
+      <point x="749" y="691" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="-62" type="line"/>
+      <point x="94" y="-129"/>
+      <point x="140" y="-199"/>
+      <point x="192" y="-236" type="curve"/>
+      <point x="284" y="-199" type="line"/>
+      <point x="175" y="-37" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="166" type="line"/>
+      <point x="165" y="-104" type="line"/>
+      <point x="284" y="-199" type="line"/>
+      <point x="284" y="166" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="167" type="line"/>
+      <point x="429" y="-331" type="line"/>
+      <point x="549" y="-331" type="line"/>
+      <point x="549" y="257" type="line"/>
+    </contour>
+    <component base="uni0921094D_ddadeva.comp" xOffset="38" yOffset="-17"/>
+    <component base="nuktadeva" xOffset="484" yOffset="577"/>
+    <contour>
+      <point x="457" y="541" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="489" y="-331" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

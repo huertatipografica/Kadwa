@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091D094D" format="1">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="428" y="285" type="line"/>
+      <point x="458" y="178" type="line"/>
+      <point x="760" y="178" type="line"/>
+      <point x="749" y="285" type="line"/>
+    </contour>
+    <component base="ideva"/>
+    <contour>
+      <point x="109" y="-108" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

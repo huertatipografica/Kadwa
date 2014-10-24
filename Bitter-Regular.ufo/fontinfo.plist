@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>770</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011-2013, Sol Matas (www.huertatipografica.com.ar), with Reserved Font Name "Bitter".</string>
+	<key>descender</key>
+	<integer>-230</integer>
+	<key>openTypeHeadCreated</key>
+	<string>2013/05/19 23:02:16</string>
+	<key>openTypeNameDesigner</key>
+	<string>Sol Matas</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.huertatipografica.com.ar</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Sol Matas</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.huertatipografica.com.ar</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Bitter</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>530</integer>
+		<integer>545</integer>
+		<integer>700</integer>
+		<integer>715</integer>
+		<integer>770</integer>
+		<integer>785</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-245</integer>
+		<integer>-230</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>80</integer>
+		<integer>85</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>100</integer>
+		<integer>105</integer>
+		<integer>115</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Bitter is a trademark of Sol Matas (www.huertatipografica.com.ar).</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>300</integer>
+	<key>xHeight</key>
+	<integer>530</integer>
+</dict>
+</plist>

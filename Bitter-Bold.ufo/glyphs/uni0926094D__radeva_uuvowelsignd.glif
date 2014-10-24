@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D_radeva_uuvowelsignd" format="1">
+  <advance width="693"/>
+  <outline>
+    <component base="dadeva_uuvowelsigndeva"/>
+    <component base="radeva.post2" xOffset="689" yOffset="-103"/>
+    <contour>
+      <point x="421" y="541" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

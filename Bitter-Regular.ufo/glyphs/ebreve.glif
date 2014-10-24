@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ebreve" format="1">
+  <advance width="530"/>
+  <unicode hex="0115"/>
+  <outline>
+    <contour>
+      <point x="249" y="648" type="move"/>
+    </contour>
+    <component base="e"/>
+    <component base="breve" xOffset="56"/>
+  </outline>
+</glyph>

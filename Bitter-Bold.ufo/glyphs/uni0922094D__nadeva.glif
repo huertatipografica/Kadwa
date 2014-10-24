@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0922094D_nadeva" format="1">
+  <advance width="641"/>
+  <outline>
+    <contour>
+      <point x="-30" y="691" type="line"/>
+      <point x="-14" y="584" type="line"/>
+      <point x="669" y="584" type="line"/>
+      <point x="653" y="691" type="line"/>
+    </contour>
+    <component base="uni0922094D_ddhadeva.comp" yOffset="-10"/>
+    <component base="nadeva.comp" xOffset="-30"/>
+    <contour>
+      <point x="441" y="541" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="440" y="-237" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
