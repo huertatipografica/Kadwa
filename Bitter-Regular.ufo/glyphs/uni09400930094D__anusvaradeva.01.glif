@@ -2,7 +2,7 @@
 <glyph name="uni09400930094D_anusvaradeva.01" format="1">
   <advance width="312"/>
   <outline>
-    <component base="uni09400930094D"/>
+    <component base="iiMatra_reph-deva"/>
     <component base="anusvaradeva" xOffset="427" yOffset="66" xScale="0.89" yScale="0.89"/>
     <contour>
       <point x="155" y="530" type="move" name="top"/>

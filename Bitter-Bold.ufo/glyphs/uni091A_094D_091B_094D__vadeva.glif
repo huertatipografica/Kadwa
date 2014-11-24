@@ -5,10 +5,10 @@
     <component base="uni091A094D"/>
     <component base="uni091B094D_vadeva" xOffset="402"/>
     <contour>
-      <point x="925" y="541" type="move" name="top"/>
+      <point x="926" y="541" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="928" y="-150" type="move" name="bottom"/>
+      <point x="929" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

@@ -4,7 +4,7 @@
   <unicode hex="0977"/>
   <outline>
     <component base="adeva"/>
-    <component base="ueMatra-deva" xOffset="877"/>
+    <component base="uni0956" xOffset="877"/>
     <contour>
       <point x="65" y="18" type="move" name="nukta"/>
     </contour>

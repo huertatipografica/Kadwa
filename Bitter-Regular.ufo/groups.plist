@@ -1042,25 +1042,6 @@
 	</array>
 	<key>Deva</key>
 	<array>
-		<string>uni0904</string>
-		<string>adeva</string>
-		<string>aadeva</string>
-		<string>ideva</string>
-		<string>iideva</string>
-		<string>udeva</string>
-		<string>uudeva</string>
-		<string>rvocalicdeva</string>
-		<string>lvocalicdeva</string>
-		<string>ecandradeva</string>
-		<string>eshortdeva</string>
-		<string>edeva</string>
-		<string>aideva</string>
-		<string>ocandradeva</string>
-		<string>oshortdeva</string>
-		<string>odeva</string>
-		<string>audeva</string>
-		<string>rrvocalicdeva</string>
-		<string>llvocalicdeva</string>
 		<string>kadeva</string>
 		<string>khadeva</string>
 		<string>gadeva</string>
@@ -1112,17 +1093,12 @@
 		<string>uni097C</string>
 		<string>uni097E</string>
 		<string>uni097F</string>
-		<string>uni0972</string>
-		<string>uni0973</string>
-		<string>uni0974</string>
-		<string>uni0975</string>
-		<string>uni0976</string>
-		<string>uni0977</string>
 		<string>chadeva.comp</string>
 		<string>nadeva.comp</string>
 		<string>uni0932.comp</string>
 		<string>uni0932.loclMAR</string>
 		<string>shadeva.loclMAR</string>
+		<string>jhadeva.loclNEP</string>
 		<string>uni0979.loclNEP</string>
 		<string>nadeva.post</string>
 		<string>uni092F.post</string>
@@ -1193,6 +1169,7 @@
 		<string>uni095E094D</string>
 		<string>uni091C094D091C094D.alt</string>
 		<string>uni0936094D.loclMAR</string>
+		<string>uni091D094D.loclNEP</string>
 		<string>uni0936094D.ss02</string>
 		<string>uni0915094D_kadeva</string>
 		<string>uni0915094D_tadeva</string>
@@ -1352,18 +1329,12 @@
 		<string>uni0939094D0932</string>
 		<string>uni0939094D_vadeva</string>
 		<string>uni095E094D_radeva</string>
-		<string>uni093F0930094D</string>
-		<string>uni093F0930094D_anusvaradeva</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D_anusvaradeva</string>
-		<string>ovowelsigndeva_anusvaradeva</string>
-		<string>ovowelsigndeva_uni0930094D</string>
-		<string>ovowelsigndeva_uni0930094D_anus</string>
-		<string>uni094C_anusvaradeva</string>
-		<string>uni094C0930094D</string>
-		<string>uni094C0930094D_anusvaradeva</string>
+		<string>uni093F0930094D.00</string>
+		<string>uni093F0930094D_anusvaradeva.00</string>
 		<string>uni093F0930094D.01</string>
 		<string>uni093F0930094D_anusvaradeva.01</string>
+		<string>uni09400930094D.01</string>
+		<string>uni09400930094D_anusvaradeva.01</string>
 		<string>uni093F0930094D.02</string>
 		<string>uni093F0930094D_anusvaradeva.02</string>
 		<string>uni09400930094D.02</string>
@@ -1419,6 +1390,7 @@
 		<string>uni0932094D0932.loclMAR</string>
 		<string>uni0935094D0932.loclMAR</string>
 		<string>uni0936094D0932.loclMAR</string>
+		<string>kadeva_radeva.loclNEP</string>
 	</array>
 	<key>DevaCjct</key>
 	<array>
@@ -1580,18 +1552,12 @@
 		<string>uni0939094D0932</string>
 		<string>uni0939094D_vadeva</string>
 		<string>uni095E094D_radeva</string>
-		<string>uni093F0930094D</string>
-		<string>uni093F0930094D_anusvaradeva</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D_anusvaradeva</string>
-		<string>ovowelsigndeva_anusvaradeva</string>
-		<string>ovowelsigndeva_uni0930094D</string>
-		<string>ovowelsigndeva_uni0930094D_anus</string>
-		<string>uni094C_anusvaradeva</string>
-		<string>uni094C0930094D</string>
-		<string>uni094C0930094D_anusvaradeva</string>
+		<string>uni093F0930094D.00</string>
+		<string>uni093F0930094D_anusvaradeva.00</string>
 		<string>uni093F0930094D.01</string>
 		<string>uni093F0930094D_anusvaradeva.01</string>
+		<string>uni09400930094D.01</string>
+		<string>uni09400930094D_anusvaradeva.01</string>
 		<string>uni093F0930094D.02</string>
 		<string>uni093F0930094D_anusvaradeva.02</string>
 		<string>uni09400930094D.02</string>
@@ -1647,6 +1613,7 @@
 		<string>uni0932094D0932.loclMAR</string>
 		<string>uni0935094D0932.loclMAR</string>
 		<string>uni0936094D0932.loclMAR</string>
+		<string>kadeva_radeva.loclNEP</string>
 	</array>
 	<key>DevaFull.00</key>
 	<array>
@@ -1660,14 +1627,14 @@
 		<string>radeva.post2</string>
 		<string>radeva_uvowelsigndeva</string>
 		<string>radeva_uuvowelsigndeva</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D_anusvaradeva</string>
-		<string>ovowelsigndeva_anusvaradeva</string>
-		<string>ovowelsigndeva_uni0930094D</string>
-		<string>ovowelsigndeva_uni0930094D_anus</string>
-		<string>uni094C_anusvaradeva</string>
-		<string>uni094C0930094D</string>
-		<string>uni094C0930094D_anusvaradeva</string>
+		<string>iiMatra_reph-deva</string>
+		<string>iiMatra_reph_anusvara-deva</string>
+		<string>oMatra_anusvara-deva</string>
+		<string>oMatra_reph-deva</string>
+		<string>oMatra_reph_anusvara-deva</string>
+		<string>uni094C_uni0902</string>
+		<string>auMatra_reph-deva</string>
+		<string>auMatra_reph_anusvara-deva</string>
 		<string>uni09400930094D.02</string>
 		<string>uni09400930094D_anusvaradeva.02</string>
 	</array>
@@ -1858,7 +1825,7 @@
 		<string>uni0932094D_radeva</string>
 		<string>uni0936094D_radeva</string>
 		<string>uni093F0930094D</string>
-		<string>uni093F0930094D_anusvaradeva</string>
+		<string>uni093F0930094D0902</string>
 		<string>uni091C094D_jadeva.alt</string>
 		<string>uni091F094D_ttadeva.comp</string>
 		<string>uni0920094D_tthadeva.comp</string>
@@ -2014,25 +1981,6 @@
 	</array>
 	<key>DevaFullforms</key>
 	<array>
-		<string>uni0904</string>
-		<string>adeva</string>
-		<string>aadeva</string>
-		<string>ideva</string>
-		<string>iideva</string>
-		<string>udeva</string>
-		<string>uudeva</string>
-		<string>rvocalicdeva</string>
-		<string>lvocalicdeva</string>
-		<string>ecandradeva</string>
-		<string>eshortdeva</string>
-		<string>edeva</string>
-		<string>aideva</string>
-		<string>ocandradeva</string>
-		<string>oshortdeva</string>
-		<string>odeva</string>
-		<string>audeva</string>
-		<string>rrvocalicdeva</string>
-		<string>llvocalicdeva</string>
 		<string>kadeva</string>
 		<string>khadeva</string>
 		<string>gadeva</string>
@@ -2084,17 +2032,12 @@
 		<string>uni097C</string>
 		<string>uni097E</string>
 		<string>uni097F</string>
-		<string>uni0972</string>
-		<string>uni0973</string>
-		<string>uni0974</string>
-		<string>uni0975</string>
-		<string>uni0976</string>
-		<string>uni0977</string>
 		<string>chadeva.comp</string>
 		<string>nadeva.comp</string>
 		<string>uni0932.comp</string>
 		<string>uni0932.loclMAR</string>
 		<string>shadeva.loclMAR</string>
+		<string>jhadeva.loclNEP</string>
 		<string>uni0979.loclNEP</string>
 		<string>nadeva.post</string>
 		<string>uni092F.post</string>
@@ -2247,6 +2190,7 @@
 		<string>uni095E094D</string>
 		<string>uni091C094D091C094D.alt</string>
 		<string>uni0936094D.loclMAR</string>
+		<string>uni091D094D.loclNEP</string>
 		<string>uni0936094D.ss02</string>
 	</array>
 	<key>Uppercase</key>
@@ -2436,6 +2380,7 @@
 	</array>
 	<key>iMatra</key>
 	<array>
+		<string>uni093F</string>
 		<string>uni093F.00</string>
 		<string>uni093F.01</string>
 		<string>uni093F.02</string>
@@ -2458,11 +2403,11 @@
 	<array>
 		<string>uni093F</string>
 		<string>uni093F0930094D</string>
-		<string>uni093F0930094D_anusvaradeva</string>
+		<string>uni093F0930094D0902</string>
 	</array>
 	<key>iMatra_reph</key>
 	<array>
-		<string>uni093F0930094D</string>
+		<string>uni093F0930094D.00</string>
 		<string>uni093F0930094D.01</string>
 		<string>uni093F0930094D.02</string>
 		<string>uni093F0930094D.03</string>
@@ -2479,10 +2424,11 @@
 		<string>uni093F0930094D.14</string>
 		<string>uni093F0930094D.15</string>
 		<string>uni093F0930094D.16</string>
+		<string>uni093F0930094D</string>
 	</array>
 	<key>iMatra_reph_anusvara</key>
 	<array>
-		<string>uni093F0930094D_anusvaradeva</string>
+		<string>uni093F0930094D_anusvaradeva.00</string>
 		<string>uni093F0930094D_anusvaradeva.01</string>
 		<string>uni093F0930094D_anusvaradeva.02</string>
 		<string>uni093F0930094D_anusvaradeva.03</string>
@@ -2499,6 +2445,7 @@
 		<string>uni093F0930094D_anusvaradeva.14</string>
 		<string>uni093F0930094D_anusvaradeva.15</string>
 		<string>uni093F0930094D_anusvaradeva.16</string>
+		<string>uni093F0930094D0902</string>
 	</array>
 </dict>
 </plist>

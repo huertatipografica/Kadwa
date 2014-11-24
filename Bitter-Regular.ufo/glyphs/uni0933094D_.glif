@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0933094D" format="1">
-  <advance width="608"/>
+  <advance width="853"/>
   <outline>
     <contour>
       <point x="374" y="475"/>
@@ -49,13 +49,19 @@
       <point x="594" y="475" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-20" y="680" type="line"/>
-      <point x="-9" y="605" type="line"/>
-      <point x="628" y="605" type="line"/>
-      <point x="618" y="680" type="line"/>
+      <point x="-21" y="680" type="line"/>
+      <point x="-10" y="605" type="line"/>
+      <point x="871" y="605" type="line"/>
+      <point x="861" y="680" type="line"/>
     </contour>
     <contour>
       <point x="432" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="431" y="70" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="609" y="530" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

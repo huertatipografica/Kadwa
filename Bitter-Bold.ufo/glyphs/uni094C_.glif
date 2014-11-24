@@ -6,7 +6,7 @@
     <component base="uni093E"/>
     <component base="aivowelsigndeva" xOffset="337"/>
     <contour>
-      <point x="168" y="541" type="move" name="top"/>
+      <point x="168" y="588" type="move" name="top"/>
     </contour>
     <contour>
       <point x="168" y="0" type="move" name="bottom"/>

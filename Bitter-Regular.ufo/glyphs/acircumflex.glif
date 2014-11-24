@@ -4,6 +4,22 @@
   <unicode hex="00E2"/>
   <outline>
     <contour>
+      <point x="400" y="600" type="line"/>
+      <point x="440" y="645" type="line"/>
+      <point x="290" y="785" type="line"/>
+      <point x="230" y="780" type="line"/>
+      <point x="80" y="645" type="line"/>
+      <point x="120" y="600" type="line"/>
+      <point x="262" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="5" type="line"/>
+      <point x="535" y="60" type="line"/>
+      <point x="455" y="80" type="line"/>
+      <point x="455" y="385" type="line" smooth="yes"/>
+      <point x="455" y="500"/>
+      <point x="386" y="540"/>
+      <point x="270" y="540" type="curve" smooth="yes"/>
       <point x="185" y="540"/>
       <point x="75" y="500"/>
       <point x="75" y="500" type="curve"/>
@@ -28,15 +44,12 @@
       <point x="325" y="36"/>
       <point x="359" y="70" type="curve"/>
       <point x="380" y="0" type="line"/>
-      <point x="535" y="5" type="line"/>
-      <point x="535" y="60" type="line"/>
-      <point x="455" y="80" type="line"/>
-      <point x="455" y="385" type="line" smooth="yes"/>
-      <point x="455" y="500"/>
-      <point x="386" y="540"/>
-      <point x="270" y="540" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="147" y="205"/>
+      <point x="185" y="230"/>
+      <point x="285" y="230" type="curve" smooth="yes"/>
+      <point x="355" y="230" type="line"/>
       <point x="355" y="150" type="line"/>
       <point x="355" y="150"/>
       <point x="295" y="70"/>
@@ -44,19 +57,6 @@
       <point x="175" y="70"/>
       <point x="147" y="100"/>
       <point x="147" y="145" type="curve" smooth="yes"/>
-      <point x="147" y="205"/>
-      <point x="185" y="230"/>
-      <point x="285" y="230" type="curve" smooth="yes"/>
-      <point x="355" y="230" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="780" type="line"/>
-      <point x="80" y="645" type="line"/>
-      <point x="120" y="600" type="line"/>
-      <point x="262" y="708" type="line"/>
-      <point x="400" y="600" type="line"/>
-      <point x="440" y="645" type="line"/>
-      <point x="290" y="785" type="line"/>
     </contour>
   </outline>
 </glyph>

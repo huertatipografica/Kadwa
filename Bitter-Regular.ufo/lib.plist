@@ -2,8 +2,113 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>6959900B-8A08-4E04-B0F8-C63132552E7A</key>
+		<dict>
+			<key>HH</key>
+			<integer>120</integer>
+			<key>HV</key>
+			<integer>150</integer>
+			<key>OH</key>
+			<integer>125</integer>
+			<key>OV</key>
+			<integer>160</integer>
+			<key>nV</key>
+			<integer>145</integer>
+			<key>nd</key>
+			<integer>125</integer>
+			<key>oH</key>
+			<integer>120</integer>
+			<key>oV</key>
+			<integer>150</integer>
+		</dict>
+		<key>89F00A14-383C-41A8-AF30-A12CE933D7AF</key>
+		<dict>
+			<key>HH</key>
+			<integer>80</integer>
+			<key>HV</key>
+			<integer>100</integer>
+			<key>OH</key>
+			<integer>85</integer>
+			<key>OV</key>
+			<integer>110</integer>
+			<key>nV</key>
+			<integer>95</integer>
+			<key>nd</key>
+			<integer>85</integer>
+			<key>oH</key>
+			<integer>80</integer>
+			<key>oV</key>
+			<integer>100</integer>
+		</dict>
+		<key>BA95EE3F-9DA5-41EC-BB73-9347B07B5946</key>
+		<dict>
+			<key>HV</key>
+			<integer>105</integer>
+		</dict>
+		<key>DAACF28A-601E-43F2-B3A2-D78749C87D22</key>
+		<dict>
+			<key>HH</key>
+			<integer>120</integer>
+			<key>HV</key>
+			<integer>155</integer>
+			<key>OH</key>
+			<integer>125</integer>
+			<key>OV</key>
+			<integer>170</integer>
+			<key>nV</key>
+			<integer>150</integer>
+			<key>nd</key>
+			<integer>125</integer>
+			<key>oH</key>
+			<integer>120</integer>
+			<key>oV</key>
+			<integer>155</integer>
+			<key>tH</key>
+			<integer>110</integer>
+		</dict>
+		<key>UUID0</key>
+		<dict>
+			<key>HH</key>
+			<integer>80</integer>
+			<key>HV</key>
+			<integer>105</integer>
+			<key>OH</key>
+			<integer>85</integer>
+			<key>OV</key>
+			<integer>115</integer>
+			<key>nV</key>
+			<integer>100</integer>
+			<key>nd</key>
+			<integer>85</integer>
+			<key>oH</key>
+			<integer>80</integer>
+			<key>oV</key>
+			<integer>105</integer>
+			<key>tH</key>
+			<integer>75</integer>
+		</dict>
+	</dict>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<integer>45</integer>
+		<key>GSOffsetHorizontal</key>
+		<integer>43</integer>
+		<key>GSOffsetMakeStroke</key>
+		<integer>1</integer>
+		<key>GSOffsetVertical</key>
+		<integer>34</integer>
+		<key>angle</key>
+		<integer>20</integer>
+		<key>height</key>
+		<integer>6</integer>
+		<key>width</key>
+		<integer>30</integer>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>E30D69B5-862A-4D2C-A8E3-1C576489D57F</string>
+	<string>UUID0</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
 	<key>public.glyphOrder</key>
@@ -380,25 +485,6 @@
 		<string>Omega</string>
 		<string>mu</string>
 		<string>pi</string>
-		<string>uni0904</string>
-		<string>adeva</string>
-		<string>aadeva</string>
-		<string>ideva</string>
-		<string>iideva</string>
-		<string>udeva</string>
-		<string>uudeva</string>
-		<string>rvocalicdeva</string>
-		<string>lvocalicdeva</string>
-		<string>ecandradeva</string>
-		<string>eshortdeva</string>
-		<string>edeva</string>
-		<string>aideva</string>
-		<string>ocandradeva</string>
-		<string>oshortdeva</string>
-		<string>odeva</string>
-		<string>audeva</string>
-		<string>rrvocalicdeva</string>
-		<string>llvocalicdeva</string>
 		<string>kadeva</string>
 		<string>khadeva</string>
 		<string>gadeva</string>
@@ -450,12 +536,6 @@
 		<string>uni097C</string>
 		<string>uni097E</string>
 		<string>uni097F</string>
-		<string>uni0972</string>
-		<string>uni0973</string>
-		<string>uni0974</string>
-		<string>uni0975</string>
-		<string>uni0976</string>
-		<string>uni0977</string>
 		<string>chadeva.comp</string>
 		<string>nadeva.comp</string>
 		<string>uni0932.comp</string>
@@ -627,16 +707,6 @@
 		<string>uni0939094D0932</string>
 		<string>uni0939094D_vadeva</string>
 		<string>uni095E094D_radeva</string>
-		<string>uni093F0930094D</string>
-		<string>uni093F0930094D_anusvaradeva</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D_anusvaradeva</string>
-		<string>ovowelsigndeva_anusvaradeva</string>
-		<string>ovowelsigndeva_uni0930094D</string>
-		<string>ovowelsigndeva_uni0930094D_anus</string>
-		<string>uni094C_anusvaradeva</string>
-		<string>uni094C0930094D</string>
-		<string>uni094C0930094D_anusvaradeva</string>
 		<string>uni093F0930094D.00</string>
 		<string>uni093F0930094D_anusvaradeva.00</string>
 		<string>uni093F0930094D.01</string>
@@ -698,6 +768,32 @@
 		<string>uni0932094D0932.loclMAR</string>
 		<string>uni0935094D0932.loclMAR</string>
 		<string>uni0936094D0932.loclMAR</string>
+		<string>kadeva_radeva.loclNEP</string>
+		<string>uni0904</string>
+		<string>uni0972</string>
+		<string>adeva</string>
+		<string>aadeva</string>
+		<string>ideva</string>
+		<string>iideva</string>
+		<string>udeva</string>
+		<string>uudeva</string>
+		<string>rvocalicdeva</string>
+		<string>rrvocalicdeva</string>
+		<string>lvocalicdeva</string>
+		<string>llvocalicdeva</string>
+		<string>ecandradeva</string>
+		<string>eshortdeva</string>
+		<string>edeva</string>
+		<string>aideva</string>
+		<string>ocandradeva</string>
+		<string>oshortdeva</string>
+		<string>odeva</string>
+		<string>audeva</string>
+		<string>uni0973</string>
+		<string>uni0974</string>
+		<string>uni0975</string>
+		<string>uni0976</string>
+		<string>uni0977</string>
 		<string>uni0915094D</string>
 		<string>uni0915094D0937094D</string>
 		<string>uni0916094D</string>
@@ -760,12 +856,25 @@
 		<string>uni095B094D</string>
 		<string>uni095E094D</string>
 		<string>uni093E</string>
+		<string>uni093F0930094D</string>
+		<string>uni093F0930094D0902</string>
 		<string>uni093F</string>
+		<string>iiMatra_reph-deva</string>
+		<string>iiMatra_reph_anusvara-deva</string>
 		<string>uni0940</string>
 		<string>ocandravowelsigndeva</string>
 		<string>uni094A</string>
+		<string>oMatra_anusvara-deva</string>
+		<string>oMatra_reph-deva</string>
+		<string>oMatra_reph_anusvara-deva</string>
 		<string>ovowelsigndeva</string>
+		<string>uni094C_uni0902</string>
+		<string>auMatra_reph-deva</string>
+		<string>auMatra_reph_anusvara-deva</string>
 		<string>uni094C</string>
+		<string>uni094E</string>
+		<string>uni093B</string>
+		<string>uni094F</string>
 		<string>uni093F.00</string>
 		<string>uni093F.01</string>
 		<string>uni0940.01</string>
@@ -826,6 +935,7 @@
 		<string>eightdeva.loclNEP</string>
 		<string>asterisk</string>
 		<string>backslash</string>
+		<string>periodcentered</string>
 		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
@@ -836,7 +946,6 @@
 		<string>numbersign</string>
 		<string>overline</string>
 		<string>period</string>
-		<string>periodcentered</string>
 		<string>question</string>
 		<string>questiondown</string>
 		<string>quotedbl</string>
@@ -891,7 +1000,6 @@
 		<string>lira</string>
 		<string>peseta</string>
 		<string>uni20B9</string>
-		<string>uni20A8</string>
 		<string>sterling</string>
 		<string>yen</string>
 		<string>Ohm</string>
@@ -927,37 +1035,39 @@
 		<string>product</string>
 		<string>radical</string>
 		<string>summation</string>
-		<string>arrowboth</string>
+		<string>arrowup</string>
+		<string>arrowright</string>
 		<string>arrowdown</string>
 		<string>arrowleft</string>
-		<string>arrowright</string>
-		<string>arrowup</string>
+		<string>uni2194</string>
 		<string>arrowupdn</string>
 		<string>arrowupdownbase</string>
 		<string>dottedcircle</string>
 		<string>lozenge</string>
-		<string>ampersand</string>
-		<string>asciicircum</string>
-		<string>at</string>
 		<string>bar</string>
 		<string>brokenbar</string>
+		<string>at</string>
+		<string>ampersand</string>
+		<string>paragraph</string>
 		<string>uni2105</string>
 		<string>copyright</string>
-		<string>dagger</string>
-		<string>daggerdbl</string>
-		<string>degree</string>
-		<string>estimated</string>
-		<string>house</string>
-		<string>uni0FD8</string>
-		<string>uni2113</string>
-		<string>minute</string>
-		<string>uni2116</string>
-		<string>paragraph</string>
 		<string>registered</string>
-		<string>uni0FD7</string>
-		<string>second</string>
 		<string>section</string>
 		<string>trademark</string>
+		<string>degree</string>
+		<string>estimated</string>
+		<string>uni2113</string>
+		<string>uni2116</string>
+		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>house</string>
+		<string>uni0FD6</string>
+		<string>uni0FD8</string>
+		<string>minute</string>
+		<string>uni0FD5</string>
+		<string>uni0FD7</string>
+		<string>second</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -984,18 +1094,14 @@
 		<string>uni02BC</string>
 		<string>firsttonechinese</string>
 		<string>visargadeva</string>
-		<string>candrabindudeva</string>
-		<string>anusvaradeva</string>
-		<string>uni0930094D</string>
-		<string>uni0930094D_anusvaradeva</string>
-		<string>rakardeva</string>
-		<string>rakardeva_uvowelsigndeva</string>
-		<string>rakardeva_uuvowelsigndeva</string>
 		<string>uvowelsigndeva</string>
 		<string>uuvowelsigndeva</string>
 		<string>rvocalicvowelsigndeva</string>
 		<string>rrvocalicvowelsigndeva</string>
+		<string>lvocalicvowelsigndeva</string>
+		<string>llvocalicvowelsigndeva</string>
 		<string>ecandravowelsigndeva</string>
+		<string>candrabindudeva</string>
 		<string>eshortvowelsigndeva</string>
 		<string>evowelsigndeva</string>
 		<string>evowelsigndeva_anusvaradeva</string>
@@ -1005,38 +1111,38 @@
 		<string>aivowelsigndeva_anusvaradeva</string>
 		<string>aivowelsigndeva_uni0930094D</string>
 		<string>aivowelsigndeva_uni0930094D_anu</string>
+		<string>anusvaradeva</string>
 		<string>viramadeva</string>
 		<string>nuktadeva</string>
+		<string>uni0930094D</string>
+		<string>uni0930094D_anusvaradeva</string>
+		<string>rakardeva</string>
+		<string>rakardeva_uvowelsigndeva</string>
+		<string>rakardeva_uuvowelsigndeva</string>
+		<string>uni0900</string>
+		<string>uni0955</string>
+		<string>uni093A</string>
+		<string>uni0956</string>
+		<string>uni0957</string>
 		<string>udattadeva</string>
 		<string>anudattadeva</string>
 		<string>gravedeva</string>
 		<string>acutedeva</string>
-		<string>lvocalicvowelsigndeva</string>
-		<string>llvocalicvowelsigndeva</string>
 		<string>candrabindudeva.alt</string>
 		<string>candrabindudeva.imatra</string>
 		<string>uni0930094D.imatra</string>
 		<string>uni0930094D_anusvaradeva.imatra</string>
 		<string>uni0930094D.loclMAR</string>
-		<string>uni094E</string>
-		<string>uni094F</string>
 		<string>Igrave-cy</string>
+		<string>NULL</string>
 		<string>ShortI-cy</string>
-		<string>areas</string>
 		<string>bindu-deva</string>
 		<string>candraBinduVirama-deva</string>
 		<string>cyrbreve</string>
 		<string>devaTecho</string>
 		<string>doublecandraBinduVirama-deva</string>
-		<string>eLongCandra-deva</string>
 		<string>foundryicon</string>
 		<string>halfspace</string>
-		<string>invertedCandraBindu-deva</string>
-		<string>oeMatra-deva</string>
-		<string>ueMatra-deva</string>
-		<string>uni093B</string>
-		<string>uueMatra-deva</string>
-		<string>npu0915_u0930_u094D.blwf.vatu</string>
 		<string>ya-deva2.post</string>
 		<string>devaHeight</string>
 		<string>spacingGlyph</string>

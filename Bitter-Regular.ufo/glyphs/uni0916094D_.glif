@@ -62,8 +62,8 @@
     <contour>
       <point x="-20" y="680" type="line"/>
       <point x="-9" y="605" type="line"/>
-      <point x="527" y="605" type="line"/>
-      <point x="517" y="680" type="line"/>
+      <point x="542" y="605" type="line"/>
+      <point x="532" y="680" type="line"/>
     </contour>
   </outline>
   <lib>

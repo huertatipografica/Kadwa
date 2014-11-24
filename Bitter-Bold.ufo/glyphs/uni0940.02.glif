@@ -26,7 +26,7 @@
     </contour>
     <component base="uni093E"/>
     <contour>
-      <point x="168" y="541" type="move" name="top"/>
+      <point x="-453" y="541" type="move" name="top"/>
     </contour>
     <contour>
       <point x="168" y="0" type="move" name="bottom"/>

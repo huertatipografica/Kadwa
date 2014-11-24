@@ -3,10 +3,10 @@
   <advance width="580"/>
   <outline>
     <contour>
-      <point x="428" y="285" type="line"/>
-      <point x="458" y="178" type="line"/>
-      <point x="760" y="178" type="line"/>
-      <point x="749" y="285" type="line"/>
+      <point x="428" y="320" type="line"/>
+      <point x="458" y="218" type="line"/>
+      <point x="774" y="218" type="line"/>
+      <point x="763" y="320" type="line"/>
     </contour>
     <component base="ideva"/>
     <contour>
