@@ -40869,7 +40869,7 @@ width = 853;
 {
 color = 3;
 glyphname = "lll-deva";
-lastChange = "2014-11-24 14:37:10 +0100";
+lastChange = "2014-11-24 15:24:37 +0100";
 layers = (
 {
 components = (
@@ -40885,7 +40885,7 @@ transform = "{1, 0, 0, 1, 300, 165}";
 );
 layerId = UUID0;
 name = Regular;
-width = 608;
+width = 853;
 }
 );
 },

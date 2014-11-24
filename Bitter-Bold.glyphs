@@ -36152,6 +36152,7 @@ width = 511;
 {
 color = 3;
 glyphname = "ll-deva";
+lastChange = "2014-11-24 15:25:54 +0100";
 layers = (
 {
 anchors = (
@@ -36230,13 +36231,14 @@ nodes = (
 );
 }
 );
-width = 885;
+width = 884;
 }
 );
 },
 {
 color = 3;
 glyphname = "lll-deva";
+lastChange = "2014-11-24 15:26:00 +0100";
 layers = (
 {
 components = (
@@ -36252,7 +36254,7 @@ transform = "{1, 0, 0, 1, 287, 132}";
 );
 layerId = "DAE8ADA5-380A-4E8F-BF43-E51A5C0E9D66";
 name = Bold;
-width = 769;
+width = 884;
 }
 );
 },
