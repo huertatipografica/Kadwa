@@ -135,7 +135,7 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = trademark;
-value = "Kadwa is a trademark of Sol Matas (www.huertatipografica.com.ar).";
+value = "Kadwa is a trademark of Sol Matas (www.huertatipografica.com).";
 },
 {
 name = openTypeNameLicense;
